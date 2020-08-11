@@ -6,8 +6,8 @@ disableKinds = ["taxonomyTerm"]
 
 [params]
   dateFormat = "2006-01-02" 
-  author = "Firstname Lastname"
-  description = "My awesome blog"
+  author = "christian"
+  description = "christian"
   mainImage = "images/main.jpeg"
 
 [params.introduction]
